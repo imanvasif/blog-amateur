@@ -1,0 +1,292 @@
+/*NAV MENU*/
+.w-active{
+    color: chocolate
+}
+.w-logo {
+    background-color: white;
+    padding: 24px 0px;
+    display: inline-block;
+}
+
+.w-logo1 {
+    background-color: white;
+    padding: 15px 5px;
+}
+
+.w-logo2 {
+    background-color: white;
+    padding: 37px 5px;
+    display: flex;
+    float: right;
+    margin-left: 70px;
+}
+.b-soc{
+    padding-top: 50px;
+}
+.w-flex{
+    display: flex;
+    justify-content: space-between;
+    background: white
+}
+.nav-position{
+    position: fixed;
+    top: 0;
+    padding-bottom: 0px;
+    width: 1140px;
+}
+.nav-ul{
+    display: flex;
+    padding: 15px;
+    padding-top: 13px;
+}
+.nav-list{
+    margin-top: 3px;
+    font-family: serif;
+    font-weight: 400;
+    font-size: 19px;
+    margin-right: 25px;
+}
+.nav-icon{
+    color: grey;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.nav-icon:hover{
+    cursor: pointer;
+    color: black
+}
+.nav-icon-search{
+    float: right;
+    padding: 0px 100px;
+    padding-left: 5px;
+    color: snow;
+    background-color: coral;
+    cursor: pointer
+}
+.nav-marg{
+    margin-left: 20px;
+}
+
+
+
+
+
+/*SECOND PART*/
+
+.w-top-m{
+    margin-top: 60px;
+}
+.ser-img{
+    width: 100%;
+    height: 90%;
+    position: relative
+}
+.ser-img1{
+    position: relative
+}
+.w-span{
+    position: absolute;
+    top: 10%;
+    left: 10%
+}
+.w-span-text{
+    padding: 20px;
+    background-color: coral;
+    font-size: 25px;
+    color: white;
+    text-align: center
+}
+.ser-text{
+    margin-top: 30px;
+    padding: 20px;
+}
+.w-form{
+    background-color: ghostwhite;
+    padding: 30px 0
+    
+}
+.w-input-1{
+   display: block;
+    margin: 10px auto;
+    padding: 5px 15px;
+    
+}
+.head-ul{
+    background-color: ghostwhite;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 30px
+}
+.w-search{
+    display: block;
+    margin: 10px auto;
+    padding: 5px 70px;
+    background: dodgerblue;
+    border: none;
+    color: white
+}
+.cat-ul{
+    margin-top: 40px;
+}
+.li-dec{
+    text-decoration: none;
+    cursor: pointer;
+    color: black
+}
+.li-dec:hover{
+    transition: .4s;
+    color: brown;
+    text-decoration: none;
+    font-size: 20px
+}
+.li-deco{
+    text-decoration: none;
+    cursor: pointer;
+    color: black
+}
+.li-deco:hover{
+    transition: .5s;
+    color: brown;
+    text-decoration: none;
+    
+}
+.p-rec{
+    font-size: 20px;
+    font-style: oblique
+}
+.near{
+    float: left;
+    margin-right: 10px
+}
+.b-btn{
+    padding: 0px 10px;
+    background-color: white;
+    cursor: pointer;
+    border: none
+}
+.b-btn:hover{
+    transition: .4s;
+    background-color: coral;
+    color: white
+}
+.b-m{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.inp-mail{
+    text-align: center;
+    background: white;
+    color: black;
+    border: 1px solid DeepSkyBlue;
+    display: block;
+    margin-left: 50px
+}
+.sub-btn{
+    margin-top: 10px;
+    background-color: deepskyblue;
+    color: white;
+    padding: 10px 60px;
+    text-align: center;
+    border: none;
+    cursor: none;
+    margin-left: 50px
+}
+.blog-cont{
+    margin: 50px auto;
+    margin-bottom: 0;
+    width: 100%;
+}
+.bloc-c{
+    background: darkslategray;
+    color: white;
+    display: flex;
+    justify-content: space-between
+}
+.div-1{
+    width: 350px;
+    padding: 80px 50px;
+    padding-right: 0;
+    display: inline-block}
+.b-p{
+    font-size: 14px;
+    line-height: 10px;
+    display: block
+}
+.b-lg{
+    padding-bottom: 40px
+}
+.div-2{
+    width: 250px;
+    padding: 80px 50px;
+    padding-left: 0px;
+    display: inline-block;
+}
+.b-ul{
+    color: white;
+    cursor: pointer;
+}
+.b-ul:hover{
+    text-decoration: none;
+    color: coral;
+    transition: .4s
+}
+.b-li{
+    line-height: 35px
+}
+.div-3{
+    width: 300px;
+    padding-top: 80px;
+    padding-left: 0;
+    display: inline-block
+}
+.b-float{
+    display: flex
+}
+.ul-p{
+    margin-right: 50px;
+}
+.div-4{
+    width: 400px;
+    padding-top: 80px;
+    display: inline-block
+}
+.b-image{
+    margin: 10px;
+    border-radius: 10%;
+    width: 20%
+}
+.clearfix{
+    display: block;
+    content: "";
+    clear: both;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
